@@ -1,6 +1,6 @@
 # 💫 About Me:
 📖 I'm a student living in Vilnius, currently studying Information Technologies at Vilnius Tech.<br>
-🔭 I’m currently working on my study tasks and my coursework.<br>🌱 I’m currently learning C++, python and a bit of lua.<br>⚡ Fun fact: The first computer to win a chess game against a human was the Deep Blue computer, which beat chess grandmaster Garry Kasparov in 1997.
+🔭 I’m currently working on my study tasks and my coursework.<br>🌱 I am actively learning C++, python and a bit of lua.<br>⚡ Fun fact: The first computer to win a chess game against a human was the Deep Blue computer, which beat chess grandmaster Garry Kasparov in 1997.
 
 
 ## 🌐 Socials:
